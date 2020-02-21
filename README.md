@@ -31,13 +31,13 @@ This is a java project executed in order to provide basic services to veterans w
 
 The end user is a veteran or a guest who can register a veteran on their behalf.
 
-How to execute the project?
+<b>How to execute the project?</b>
 
 Install and setup netbeans on your system.
 
 File -> Open Project -> EZVeteran
 
-You will find there are errors in the project. This error is due to a jar file we have used for implementing email. If you create a veteran login with your email you will receive emails of service requests raised by you. So, to resolve this error you will have to right click on the project name on the left tab in netbeans -> properties -> libraries -> Add jar folder -> Add the mail.jar file present in the folder downloaded-> ok -> Clean and build the project and the errors should be resolved.
+If you find there are errors in the project. This error is due to a jar file missing. If you create a veteran login with your email you will receive emails of service requests raised by you. So, to resolve this error you will have to right click on the project name on the left tab in netbeans -> properties -> libraries -> Add jar folder -> Add the mail.jar file present in the folder downloaded-> ok -> Clean and build the project and the errors should be resolved.
 
 Run the project
 
